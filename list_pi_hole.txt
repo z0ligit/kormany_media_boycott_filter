@@ -97,4 +97,3 @@
 0.0.0.0 indavideo.hu
 0.0.0.0 indaplay.hu
 0.0.0.0 atv.hu
-0.0.0.0 freemail.hu

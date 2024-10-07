@@ -98,4 +98,3 @@ blog.hu
 indavideo.hu
 indaplay.hu
 atv.hu
-freemail.hu
