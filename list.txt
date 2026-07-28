@@ -4,8 +4,6 @@
 ! Leírás: Ez a fájl segíteni fog téged a boycott végrehajtásában
 !
 
-hirado.hu
-mediaklikk.hu
 hirtv.hu
 hirfm.hu
 lifetv.hu
@@ -22,7 +20,6 @@ demokrata.hu
 magyarhirlap.hu
 blogstar.hu
 nemzetisport.hu
-ridikul.hu
 figyelo.hu
 szabadfold.hu
 kelet.hu
@@ -74,4 +71,3 @@ divany.hu
 retikul.hu
 port.hu
 blog.hu
-atv.hu

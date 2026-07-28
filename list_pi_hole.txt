@@ -3,8 +3,6 @@
 #
 # Leírás: Ez a fájl segíteni fog téged a boycott végrehajtásában
 
-0.0.0.0 hirado.hu
-0.0.0.0 mediaklikk.hu
 0.0.0.0 hirtv.hu
 0.0.0.0 hirfm.hu
 0.0.0.0 lifetv.hu
@@ -21,7 +19,6 @@
 0.0.0.0 magyarhirlap.hu
 0.0.0.0 blogstar.hu
 0.0.0.0 nemzetisport.hu
-0.0.0.0 ridikul.hu
 0.0.0.0 figyelo.hu
 0.0.0.0 szabadfold.hu
 0.0.0.0 kelet.hu
@@ -75,4 +72,3 @@
 0.0.0.0 blog.hu
 0.0.0.0 indavideo.hu
 0.0.0.0 indaplay.hu
-0.0.0.0 atv.hu
