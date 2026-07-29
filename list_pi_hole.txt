@@ -18,7 +18,6 @@
 0.0.0.0 888.hu
 0.0.0.0 magyarhirlap.hu
 0.0.0.0 blogstar.hu
-0.0.0.0 nemzetisport.hu
 0.0.0.0 figyelo.hu
 0.0.0.0 szabadfold.hu
 0.0.0.0 kelet.hu
